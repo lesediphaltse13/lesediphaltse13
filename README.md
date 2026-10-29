@@ -1,279 +1,526 @@
 
+<!--
+LESEDI PHALATSE
+THE DIGITAL ATELIER — EDITION III
+Obsidian / Antique Gold / Ivory / Sage
+-->
+
 <div align="center">
 
-# Lesedi Phalatse
+<br/>
 
-### Software Developer | UI/UX Designer | Systems Analyst
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:090A0B,50:B69A69,100:090A0B" width="100%" alt="Gold accent"/>
 
-**Founder & CEO — Sedi.P Industrial Software Services**
+<br/><br/>
 
-*Engineering intelligent systems. Designing meaningful digital experiences.*
+<sub>THE DIGITAL ATELIER &nbsp; / &nbsp; EST. 2026</sub>
 
-[![Portfolio](https://img.shields.io/badge/Sedi.P-Visit_Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sedip.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Lesedi%20Phalatse)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesediphaltse13@gmail.com)
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lesediphaltse13&color=64748b&style=flat-square)
+# L E S E D I &nbsp; P H A L A T S E
+
+### SOFTWARE ENGINEER &nbsp; / &nbsp; DIGITAL DESIGNER &nbsp; / &nbsp; FOUNDER
+
+<br/>
+
+*An intersection of engineering, design and entrepreneurial vision.*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=4000&pause=1600&color=B69A69&center=true&vCenter=true&width=750&lines=Engineering+with+purpose.;Designing+with+intention.;Building+what+matters." alt="Professional philosophy"/>
+
+<br/><br/>
+
+<a href="https://sedip.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20ATELIER-B69A69?style=for-the-badge&logoColor=090A0B" alt="Visit Sedi.P"/>
+</a>
+&nbsp;
+<a href="mailto:lesediphaltse13@gmail.com">
+<img src="https://img.shields.io/badge/MAKE%20AN%20ENQUIRY-242724?style=for-the-badge&logoColor=E8E1D4" alt="Email Lesedi"/>
+</a>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B69A69" width="25%" alt="Gold divider"/>
+
+<br/>
+
+<sub>PRETORIA, SOUTH AFRICA &nbsp; • &nbsp; SOFTWARE & DIGITAL EXPERIENCES</sub>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## About Me
-
-I'm **Lesedi Phalatse**, a South African Software Developer, UI/UX Designer, Systems Analyst, and technology entrepreneur based in Pretoria, Gauteng.
-
-Currently pursuing a **Diploma in Information Technology — Software Development**, with an expected graduation in 2027.
-
-I'm passionate about developing scalable, reliable, and visually refined digital solutions that solve real-world business challenges.
-
-As the founder of **Sedi.P Industrial Software Services**, I design and develop websites, full-stack applications, enterprise resource planning (ERP) systems, and business management platforms.
-
-My approach combines software engineering, systems analysis, and human-centred design to create technology that is both functional and aesthetically compelling.
-
-- Building enterprise-grade software and full-stack applications.
-- Specialising in C#, ASP.NET Core, React, TypeScript, and SQL Server.
-- Designing intuitive interfaces and seamless user experiences.
-- Developing software solutions for property, construction, mining, logistics, and energy industries.
-- Exploring cloud technologies, SaaS architecture, and business automation.
-- Open to software development internships, graduate programmes, junior developer roles, and collaborations.
-
-> "Great software doesn't just work. It solves problems, simplifies complexity, and creates meaningful experiences."
-
----
-
-## Sedi.P Industrial Software Services
-
 <div align="center">
 
-### Software Built Around Business.
+<br/>
 
-**Founder & CEO**
+<sub>CHAPTER 01 &nbsp; — &nbsp; THE PHILOSOPHY</sub>
 
-[![Sedi.P](https://img.shields.io/badge/Explore_Sedi.P-Industrial_Software_Services-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sedip.netlify.app/)
+<br/>
+
+# The Art of Building Software.
+
+*Where technical precision meets considered design.*
+
+<br/>
 
 </div>
 
-Sedi.P is a software development venture focused on creating tailored digital solutions for businesses across multiple industries.
+I am **Lesedi Phalatse**, a South African software developer, UI/UX designer, systems analyst, and founder of **Sedi.P Industrial Software Services**.
 
-**Our areas of focus:**
+My work is rooted in a simple belief: exceptional software should not only solve complex problems, but make the experience of solving them feel effortless.
 
-- Enterprise Resource Planning (ERP) Systems
-- Custom Business Management Applications
-- Property Management Platforms
-- Website Design & Development
-- UI/UX Design & Prototyping
-- Business Process Automation
-- Data Analytics & Operational Dashboards
-- SaaS Platform Development
+I design and engineer full-stack applications, enterprise management systems, and modern digital experiences for businesses across property, construction, mining, logistics, and energy.
 
-**Industries:** Construction | Mining | Logistics | Property | Manufacturing | Energy
+Currently pursuing a **Diploma in Information Technology — Software Development**, with an expected graduation in **2027**.
 
----
+<br/>
 
-## Featured Projects
+<div align="center">
 
-### 01. BuildCore — Construction ERP
+### “Simplicity is the ultimate expression of sophistication.”
 
-A construction management platform designed to improve operational efficiency, project visibility, and business decision-making.
+<sub>MY APPROACH TO SOFTWARE & DESIGN</sub>
 
-**Key capabilities:**
-- Project and operational management
-- Role-based access and authentication
-- Interactive management dashboards
-- Business analytics and reporting
-- Responsive user interfaces
+<br/>
 
-**Technologies:** ASP.NET Core, C#, React, TypeScript/JavaScript, SQL Server, Entity Framework Core
+</div>
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://sedpconstruction.netlify.app/)
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
----
+### 01
 
-### 02. OreCore — Mining ERP
+**ENGINEERING**
 
-An enterprise mining operations platform designed to centralise production data, improve equipment visibility, and support operational decision-making.
+Reliable architecture.
 
-**Key capabilities:**
-- Production and shift management
-- Equipment monitoring
-- Health, Safety & Environment (HSE)
-- Stockpile and inventory tracking
-- Operational reporting and analytics
-- Logistics and workforce management
+Maintainable code.
 
-**Technologies:** React, JavaScript, Tailwind CSS, enterprise dashboard architecture
+Purpose-built systems.
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://mineralismine.netlify.app/)
+</td>
+<td width="33%" align="center" valign="top">
 
----
+### 02
 
-### 03. TEB Property Solutions — Property Management Platform
+**DESIGN**
 
-A property rental website and management platform designed to simplify accommodation discovery, rental enquiries, tenant interactions, and administrative workflows.
+Visual restraint.
 
-**Key capabilities:**
-- Property listings and accommodation discovery
-- Tenant and management portals
-- Role-based permissions
-- Property management dashboards
-- Tenant support and maintenance requests
-- Email notifications and workflow management
+Human-centred interfaces.
 
-**Technologies:** ASP.NET Core, C#, React, Tailwind CSS, SQL Server, Entity Framework Core
+Meaningful interactions.
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://teb-property-solutions.netlify.app/)
+</td>
+<td width="33%" align="center" valign="top">
+
+### 03
+
+**INNOVATION**
+
+Business intelligence.
+
+Operational efficiency.
+
+Scalable products.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
 
 ---
 
-### 04. LogistiCore — Logistics ERP
+<div align="center">
 
-A logistics operations management concept focused on simplifying workflows and providing centralised operational visibility.
+<br/>
 
-**Key capabilities:**
-- Logistics management dashboards
-- Operational data visualisation
-- Reporting interfaces
-- Responsive application architecture
+<sub>CHAPTER 02 &nbsp; — &nbsp; THE VENTURE</sub>
 
-**Technologies:** React, Vite, JavaScript, Tailwind CSS
+<br/>
 
----
+# Sedi.P
 
-### 05. Veldt Energy — Corporate Web Experience
+### INDUSTRIAL SOFTWARE SERVICES
 
-A modern energy-sector website focused on strong visual communication, intuitive navigation, and responsive design.
+<br/>
 
-**Focus areas:**
-- UI/UX design
-- Responsive website development
-- Information architecture
-- Visual consistency and usability
+*Software built around business.*
 
-[![Live Website](https://img.shields.io/badge/View_Website-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://veldtenergy.netlify.app/)
+<br/>
 
----
+<a href="https://sedip.netlify.app/">
+<img src="https://img.shields.io/badge/VISIT%20SEDI.P-B69A69?style=for-the-badge&logoColor=090A0B" alt="Sedi.P website"/>
+</a>
 
-## Technical Skills
+<br/><br/>
 
-### Programming Languages
+</div>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+**Sedi.P** is my software development venture focused on creating refined, practical, and scalable technology solutions.
 
-### Frontend Development
+We approach software as a long-term business asset: carefully designed, intelligently structured, and built to support meaningful operational improvement.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+<br/>
 
-### Backend Development
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Design & Development Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## Areas of Expertise
-
-| Software Engineering | Business & Design |
+| THE PRACTICE | THE SPECIALISATION |
 |:---|:---|
-| Full-Stack Development | UI/UX Design |
-| RESTful API Development | Systems Analysis |
-| Database Design | Business Process Modelling |
-| Authentication & Authorisation | ERP System Design |
-| Application Architecture | Dashboard & Data Visualisation |
-| Software Testing & Debugging | Product Development |
+| **01 / Enterprise Systems** | ERP platforms, management applications, operational workflows |
+| **02 / Software Engineering** | Full-stack applications, REST APIs, databases |
+| **03 / Digital Experiences** | Corporate websites, UI/UX, responsive interfaces |
+| **04 / Business Intelligence** | Analytics dashboards, reports, data visualisation |
+| **05 / Digital Transformation** | Process automation, SaaS platforms, software integration |
 
----
-
-## Currently Exploring
-
-- Advanced ASP.NET Core and .NET architecture
-- Multi-tenant SaaS platforms
-- Cloud deployment and scalable infrastructure
-- AI-powered business automation
-- Secure authentication and authorisation
-- Enterprise software architecture
-- Advanced frontend engineering and design systems
-
----
-
-## GitHub Statistics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lesediphaltse13&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Lesedi's GitHub Statistics" />
+<sub>PROPERTY &nbsp; / &nbsp; CONSTRUCTION &nbsp; / &nbsp; MINING &nbsp; / &nbsp; LOGISTICS &nbsp; / &nbsp; ENERGY</sub>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=lesediphaltse13&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesediphaltse13&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<br/>
 
 </div>
 
 ---
 
-## Professional Goals
+<div align="center">
 
-My long-term goal is to become an accomplished **Full-Stack Software Engineer and Technology Entrepreneur**, contributing to innovative software products while growing Sedi.P into a trusted industrial software services company.
+<br/>
 
-I'm particularly interested in opportunities involving:
+<sub>CHAPTER 03 &nbsp; — &nbsp; SELECTED WORKS</sub>
 
-- Full-Stack Software Development
-- Backend Engineering with C# and .NET
-- Frontend Engineering with React
-- Enterprise Application Development
-- UI/UX Design
-- Systems Analysis
-- Graduate and Internship Programmes
+<br/>
+
+# The Portfolio Collection.
+
+*Digital products conceived with purpose and built with precision.*
+
+<br/>
+
+</div>
+
+### I. BUILDCORE
+
+<sub>CONSTRUCTION &nbsp; / &nbsp; ENTERPRISE SOFTWARE</sub>
+
+<br/>
+
+**A modern approach to construction operations.**
+
+BuildCore is an enterprise management platform designed to centralise construction operations, improve visibility, and support informed business decisions.
+
+| PROJECT PROFILE | |
+|:---|:---|
+| **Discipline** | Full-Stack Software Engineering |
+| **Architecture** | ASP.NET Core · React · SQL Server |
+| **Experience** | Management dashboards, operational workflows |
+| **Focus** | Efficiency, visibility, business intelligence |
+
+[EXPLORE THE PROJECT](https://sedpconstruction.netlify.app/)
+
+<br/>
 
 ---
 
-## Let's Connect
+### II. ORECORE
 
-I'm always interested in meaningful opportunities, innovative projects, and professional collaborations.
+<sub>MINING &nbsp; / &nbsp; OPERATIONAL INTELLIGENCE</sub>
 
-**Business enquiries:** Sedi.P Industrial Software Services
+<br/>
 
-**Email:** lesediphaltse13@gmail.com
+**Clarity across complex mining operations.**
 
-**Location:** Pretoria, Gauteng, South Africa
+OreCore is a mining ERP concept bringing together production oversight, equipment management, safety, and operational analytics in a unified experience.
+
+| PROJECT PROFILE | |
+|:---|:---|
+| **Discipline** | Enterprise Application Design |
+| **Technology** | React · Vite · Tailwind CSS |
+| **Experience** | Production, equipment, HSE, analytics |
+| **Focus** | Operational intelligence and visibility |
+
+[EXPLORE THE PROJECT](https://mineralismine.netlify.app/)
+
+<br/>
+
+---
+
+### III. TEB PROPERTY SOLUTIONS
+
+<sub>REAL ESTATE &nbsp; / &nbsp; PROPERTY TECHNOLOGY</sub>
+
+<br/>
+
+**A considered experience for property management.**
+
+A property rental website and management platform combining accommodation discovery, tenant interactions, and administrative workflows.
+
+| PROJECT PROFILE | |
+|:---|:---|
+| **Discipline** | Full-Stack Development & UI/UX |
+| **Architecture** | ASP.NET Core · React · SQL Server |
+| **Experience** | Property listings, tenant and management portals |
+| **Focus** | Rental operations and digital accessibility |
+
+[EXPLORE THE PROJECT](https://teb-property-solutions.netlify.app/)
+
+<br/>
+
+---
+
+### IV. LOGISTICORE
+
+<sub>LOGISTICS &nbsp; / &nbsp; ENTERPRISE MANAGEMENT</sub>
+
+<br/>
+
+**Simplifying the movement of information.**
+
+A logistics management system concept focused on centralised workflows, operational reporting, and intuitive enterprise interfaces.
+
+| PROJECT PROFILE | |
+|:---|:---|
+| **Discipline** | Enterprise Frontend Development |
+| **Technology** | React · Vite · Tailwind CSS |
+| **Experience** | Operational dashboards and reporting |
+| **Focus** | Workflow efficiency |
+
+<br/>
+
+---
+
+### V. VELDT ENERGY
+
+<sub>ENERGY &nbsp; / &nbsp; DIGITAL EXPERIENCE</sub>
+
+<br/>
+
+**A refined digital presence for the energy sector.**
+
+A modern corporate web experience focused on clarity, strong information architecture, responsive layouts, and considered visual communication.
+
+| PROJECT PROFILE | |
+|:---|:---|
+| **Discipline** | UI/UX & Web Development |
+| **Experience** | Corporate digital presence |
+| **Focus** | Visual communication and usability |
+
+[EXPLORE THE PROJECT](https://veldtenergy.netlify.app/)
+
+<br/>
+
+<sub>Selected links include live demonstrations and works in progress. Features may vary by development stage.</sub>
+
+<br/><br/>
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesediphaltse13@gmail.com)
-[![Website](https://img.shields.io/badge/Sedi.P_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sedip.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lesediphaltse13)
+<br/>
+
+<sub>CHAPTER 04 &nbsp; — &nbsp; THE CRAFT</sub>
+
+<br/>
+
+# The Technical Atelier.
+
+*An evolving collection of tools and disciplines.*
+
+<br/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / LANGUAGES
+
+C# / JavaScript / TypeScript
+
+Java / SQL / HTML / CSS
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / FRAMEWORKS
+
+ASP.NET Core / .NET
+
+React / Vite / Tailwind CSS
+
+Entity Framework Core
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / DATA & ARCHITECTURE
+
+Microsoft SQL Server
+
+SQLite / REST APIs
+
+Authentication & Authorisation
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / DESIGN & DELIVERY
+
+Figma / Visual Studio
+
+VS Code / Git / GitHub
+
+Netlify / Responsive Design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,java,html,css,tailwind,vite,figma,git,github,visualstudio,vscode&theme=dark&perline=5" width="330" alt="Technical toolkit"/>
+
+<br/><br/>
+
+</div>
 
 ---
 
-### "Building software that makes complexity feel simple."
+<div align="center">
 
-**© 2026 Lesedi Phalatse | Sedi.P Industrial Software Services**
+<br/>
+
+<sub>CHAPTER 05 &nbsp; — &nbsp; THE NUMBERS</sub>
+
+<br/>
+
+# Development Intelligence.
+
+*An evolving record of technical practice.*
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lesediphaltse13&show_icons=true&hide_border=true&bg_color=0D0F10&title_color=B69A69&text_color=E8E1D4&icon_color=B69A69&ring_color=B69A69" width="75%" alt="GitHub statistics"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=lesediphaltse13&hide_border=true&background=0D0F10&ring=B69A69&fire=B69A69&currStreakLabel=B69A69&sideLabels=E8E1D4&sideNums=E8E1D4&dates=737C70" width="75%" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesediphaltse13&layout=compact&hide_border=true&bg_color=0D0F10&title_color=B69A69&text_color=E8E1D4&langs_count=8" width="55%" alt="Repository language distribution"/>
+
+<br/><br/>
+
+</div>
+
+### DEVELOPMENT ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lesediphaltse13&bg_color=0D0F10&color=B69A69&line=B69A69&point=E8E1D4&area=true&area_color=514632&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Development activity graph"/>
+
+<br/>
+
+| ANALYTICS | DATA SOURCE |
+|:---|:---|
+| **Repository Activity** | GitHub Statistics |
+| **Contribution Consistency** | GitHub Streak |
+| **Language Distribution** | Repository Language Analysis |
+| **Development History** | Contribution Activity Graph |
+
+<sub>Statistics are provided by third-party GitHub README services and may be delayed or temporarily unavailable.</sub>
+
+<br/><br/>
+
+---
+
+<div align="center">
+
+<br/>
+
+<sub>CHAPTER 06 &nbsp; — &nbsp; THE AMBITION</sub>
+
+<br/>
+
+# A Vision Beyond Code.
+
+*To build technology that outlives the moment it was created.*
+
+<br/>
+
+</div>
+
+My ambition is to grow as a **Full-Stack Software Engineer** while developing Sedi.P into a trusted software services business.
+
+I am particularly interested in the intersection of enterprise software, design, scalable architecture, and business innovation.
+
+### CURRENT FOCUS
+
+| DIRECTION | PURSUIT |
+|:---|:---|
+| **Software Architecture** | Advanced .NET, maintainable application design |
+| **Frontend Engineering** | React, TypeScript, scalable design systems |
+| **SaaS Development** | Multi-tenant software and subscription platforms |
+| **Enterprise Systems** | ERP, operational analytics, automation |
+| **Career Development** | Graduate programmes, internships, junior engineering roles |
+
+<br/><br/>
+
+---
+
+<div align="center">
+
+<br/>
+
+<sub>CHAPTER 07 &nbsp; — &nbsp; THE CONNECTION</sub>
+
+<br/>
+
+# Let's Create Something Exceptional.
+
+*For opportunities, partnerships and meaningful conversations.*
+
+<br/>
+
+**LESEDI PHALATSE**
+
+Software Developer · UI/UX Designer · Founder
+
+Pretoria, Gauteng, South Africa
+
+<br/>
+
+<a href="mailto:lesediphaltse13@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-B69A69?style=for-the-badge&logo=gmail&logoColor=090A0B" alt="Get in touch"/>
+</a>
+&nbsp;
+<a href="https://sedip.netlify.app/">
+<img src="https://img.shields.io/badge/VIEW%20THE%20STUDIO-242724?style=for-the-badge&logoColor=E8E1D4" alt="Visit Sedi.P"/>
+</a>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090A0B,50:B69A69,100:090A0B" width="100%" alt="Footer divider"/>
+
+<br/>
+
+<sub>© 2026 &nbsp; LESEDI PHALATSE &nbsp; / &nbsp; SEDI.P INDUSTRIAL SOFTWARE SERVICES</sub>
+
+<br/>
+
+*Designed with intention. Engineered for impact.*
+
+<br/><br/>
 
 </div>
